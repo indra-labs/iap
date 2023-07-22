@@ -12,3 +12,4 @@ To make a proposal, fork this repository, and add your proposal file with the sy
 
     iap-username-short_title_of_proposal.md
 
+to the `proposals/` folder.
