@@ -1,11 +1,11 @@
-### IAP 1
+### IAP-0001
 
 # How to write an Indra Augmentation Proposal
 
 1. **Preamble**
 ```
 1. Title: How to write an Indra Augmentation Proposal
-2. Author: l0k18 <stalker.loki@protonmail.ch>
+2. Author: l0k18 <stalker.loki@protonmail.ch>, lyowhs <lyowhs@protonmail.com>
 3. Comments-Summary: none
 4. Comments-URI: none
 5. Status: proposed
