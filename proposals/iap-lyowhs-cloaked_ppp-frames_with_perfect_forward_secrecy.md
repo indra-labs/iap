@@ -1,4 +1,4 @@
-### IAP-XXXX #
+### IAP-xxxx #
 
 # Cloaked PPP Frames with Perfect Forward Secrecy
 
