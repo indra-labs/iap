@@ -40,7 +40,7 @@
       2. **Author** - name or pseudonym, optional contact method. This can be superseded by adding a Maintainer field if the original or current Author/Maintainer passes the responsibility on.
       3. **Comments-Summary** - presence and brief description of comments.
       4. **Comments-URI** URI where they can be added (as PR, presumably).
-      5. **Status** - proposed, active, inactive, final, superseded
+      5. **Status** - draft, proposed, active, inactive, final, superseded
       6. **Type** - What this relates to, e.g.:
          1. IAP process
          2. Peer application
