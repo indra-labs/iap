@@ -1,18 +1,18 @@
 ### IAP-xxxx #
 
-# Title
+# Cloaked PPP Frames with Perfect Forward Secrecy
 
 1. **Preamble**
 ```
-1. Title: Title
-2. Author: name <email>
-3. Comments-Summary: 
-4. Comments-URI: 
-5. Status: proposed
-6. Type: 
-7. Created: 
-8. License: 
-9. Replaces:
+1. Title: Cloaked PPP Frames with Perfect Forward Secrecy
+2. Author: lyowhs <lyowhs@protonmail.com>
+3. Comments-Summary: none
+4. Comments-URI: none
+5. Status: draft
+6. Type: Protocol (wire)
+7. Created: 2023-06-26
+8. License: CC0
+9. Replaces: none
 ```
 
 1. **Abstract**
@@ -44,3 +44,4 @@
 1. 
 
 1. **Comments**
+

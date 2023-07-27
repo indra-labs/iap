@@ -1,11 +1,11 @@
-### IAP 1
+### IAP-0001
 
 # How to write an Indra Augmentation Proposal
 
 1. **Preamble**
 ```
 1. Title: How to write an Indra Augmentation Proposal
-2. Author: l0k18 <stalker.loki@protonmail.ch>
+2. Author: l0k18 <stalker.loki@protonmail.ch>, lyowhs <lyowhs@protonmail.com>
 3. Comments-Summary: none
 4. Comments-URI: none
 5. Status: proposed
@@ -40,7 +40,7 @@
       2. **Author** - name or pseudonym, optional contact method. This can be superseded by adding a Maintainer field if the original or current Author/Maintainer passes the responsibility on.
       3. **Comments-Summary** - presence and brief description of comments.
       4. **Comments-URI** URI where they can be added (as PR, presumably).
-      5. **Status** - proposed, active, inactive, final, superseded
+      5. **Status** - draft, proposed, active, inactive, final, superseded
       6. **Type** - What this relates to, e.g.:
          1. IAP process
          2. Peer application
